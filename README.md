@@ -19,26 +19,26 @@
 
  API Used-
  For Autherntication
-1. For signup- http://localhost:4000/api/v1/signup
-2. For login – http://localhost:4000/api/v1/login
+1. For signup- http://localhost:3000/api/v1/signup
+2. For login – http://localhost:3000/api/v1/login
 3. 
  For Category
-1. For Category-http://localhost:4000/api/v1/Category
+1. For Category-http://localhost:3000/api/v1/Category
    
  For Product
-1. Product Listing-http://localhost:4000/api/v1/:CategoryId
-2. Product Details-http://localhost:4000/api/v1/:productId/detai
+1. Product Listing-http://localhost:3000/api/v1/:CategoryId
+2. Product Details-http://localhost:3000/api/v1/:productId/detai
 
  For Cart Management
-1. Post-http://localhost:4000/api/v1/add
-2. Put-http://localhost:4000/api/v1/update
-3. Get-http://localhost:4000/api/v1/view
-4. Delete-http://localhost:4000/api/v1/delete
+1. Post-http://localhost:3000/api/v1/add
+2. Put-http://localhost:3000/api/v1/update
+3. Get-http://localhost:3000/api/v1/view
+4. Delete-http://localhost:3000/api/v1/delete
    
  For Order Placement
-1. Placement-http://localhost:4000/api/v1/place
-2. History-http://localhost:4000/api/v1/history
-3. Details-http://localhost:4000/api/v1/:orderId/details
+1. Placement-http://localhost:3000/api/v1/place
+2. History-http://localhost:3000/api/v1/history
+3. Details-http://localhost:3000/api/v1/:orderId/details
    
  Functionality Used
 
